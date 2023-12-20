@@ -1,6 +1,6 @@
 # Zohaib Khokhar 🌌🏎️
 <div align="center">
-  <img src="https://github.com/drdobbymazz/drdobbymazz/blob/main/zobyzorocoolguy.png?raw=true" width="800" alt="zoby Image">
+  <img src="https://github.com/drdobbymazz/drdobbymazz/blob/main/zobyzorocoolguy.png?raw=true" width="400" alt="zoby Image">
 </div>
 
 Assalamualaikum! I'm Zohaib Khokhar, a passionate programmer with a knack for Python and Java. I'm always excited to expand my programming horizons and delve into new technologies. My true passion lies in game design, where I find joy in creating immersive and captivating digital experiences.
